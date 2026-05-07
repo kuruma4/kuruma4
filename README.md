@@ -1,16 +1,25 @@
-## Hi there 👋
+kuruma4
 
-<!--
-**kuruma4/kuruma4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Abaout:
+- Student
+- 🐍 Сейчас активно работаю с **Python** (ООП, банковские системы) и **Kotlin** (Android-разработка, Room DB).
+- 📊 Умею работать с данными и оптимизацией в таблицах.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Stack:
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+### 📈 Statistics:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=radical" alt="Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=radical" alt="Top Langs" height="180" />
+</p>
+
+### 📁 Project:
+* **Banking System** — Симуляция банка на Python с кастомными исключениями.
+* **Recruitment App** — Android-приложение для управления базой вакансий.
