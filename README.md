@@ -1,9 +1,9 @@
 kuruma4
 
-### 👨‍💻 Abaout:
-- 🐍 Сейчас активно работаю с **Python** (Fastapi,Pandas) и иммею базовые знания **Kotlin**  **SqlLite** **SQL** **Git** **Go** 
-- 📊 Умею работать с данными и оптимизацией в таблицах.
-### 🛠 Stack:
+###  Abaout:
+-  Сейчас активно работаю с **Python** (Fastapi,Pandas) и иммею базовые знания **Kotlin**  **SqlLite** **SQL** **Git** **Go** 
+-  Умею работать с данными и оптимизацией в таблицах.
+###  Stack:
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -14,12 +14,13 @@ kuruma4
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 📈 Statistics:
+###  Contact:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuruma4&show_icons=true&theme=radical" alt="Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuruma4&layout=compact&theme=radical" alt="Top Langs" height="180" />
+  <a href="https://t.me/kuruma44" target="blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
 </p>
 
-### 📁 Project:
+###  Project:
 * **Banking System** — Симуляция банка на Python с кастомными исключениями.
 * **Recruitment App** — Android-приложение для управления базой вакансий.
