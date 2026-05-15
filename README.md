@@ -23,4 +23,5 @@ kuruma4
 
 ###  Project:
 * **Banking System** — Симуляция банка на Python с кастомными исключениями.
-* **Recruitment App** — Android-приложение для управления базой вакансий.
+* **Recruitment App** — Android-приложение для управления магазином.
+* **Launcher300** — Лаунчер-клиент.
